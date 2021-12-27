@@ -3,5 +3,3 @@
 A simple static website hosted in an AWS S3 bucket.
 
 _Under construction_
-
-test
