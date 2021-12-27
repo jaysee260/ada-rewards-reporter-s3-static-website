@@ -2,6 +2,8 @@ name: Deploy site to S3
 
 on:
   push:
+    paths:
+      - 'src/**'
     branches:
       - master
 
